@@ -1,0 +1,6 @@
+0    [main] TRACE root  - This is a trace statement. Level:ALL
+15   [main] DEBUG root  - This is a debug statement. Level:ALL
+15   [main] INFO  root  - This is an info statement. Level:ALL
+15   [main] WARN  root  - This is a warn statement. Level:ALL
+15   [main] ERROR root  - This is an error statement. Level:ALL
+15   [main] FATAL root  - This is a fatal statement. Level:ALL
