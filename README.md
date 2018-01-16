@@ -1,4 +1,4 @@
-# Log4jPractice
+# Log4j_Implementation
 
 This repostory demonstrates use of Apache Log4j logging interface using all configuration methods
 
